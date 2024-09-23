@@ -1,0 +1,23 @@
+{
+  "name": "link-tree",
+  "version": "1.0.0",
+  "description": "evo pueblo",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "mongo",
+    "postgress"
+  ],
+  "author": "Sebastian <sebastianhidalgojz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
